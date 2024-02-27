@@ -19,3 +19,5 @@ match in the database and returns it if it's found. Otherwise and error is sent 
 If a match is found, the findFabricById sends the corresponding information and the controller sends the information formatted as a json. 
 
 ![image](https://github.com/pineapplepeachypie/CS361-microservice/assets/126367511/1e601e1a-2ad6-4a03-9fb9-51a9e209dea1)
+
+NOTE: please run npm install and then npm start to start the program. 
