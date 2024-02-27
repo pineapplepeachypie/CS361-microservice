@@ -1,0 +1,10 @@
+
+### Request 1: Retrieve all should return the 2 fabrics and their pross and cons.
+GET http://localhost:3000/fabrics HTTP/1.1
+
+### Request 2: Retrieve by ID should return the silk pros and cons
+GET http://localhost:3000/fabrics/65dd84b0d647c9c5b60102b1 HTTP/1.1
+
+### Request 3: Retrieve by ID should return the cotton pros and cons
+GET http://localhost:3000/fabrics/65dd765ad647c9c5b60102af HTTP/1.1
+
